@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspCoreMvcWithEF_CRUD_BankTransaction02.props" />
+</Project>
